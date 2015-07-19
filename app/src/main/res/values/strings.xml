@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volley Library Example 1</string>
+    <string name="loading_info">Data Loading..</string>
+</resources>
