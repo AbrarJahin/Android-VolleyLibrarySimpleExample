@@ -7,6 +7,7 @@ It is just the most easist way of using volley, but it is not the real way of ke
 2. https://github.com/abrarjahin/Android_Login-And-Register-User
 
 To Import Volley in Android Studio (If you dont clone this code - if you want to do this code by yourself) -
+
 1. Download "volley.jar" from http://api.androidhive.info/volley/volley.jar
 2. Go to "Project" perspective from "Android" perspective from left side top panel (under your project name)
 3. Pest "volley.jar" in the libs folder
