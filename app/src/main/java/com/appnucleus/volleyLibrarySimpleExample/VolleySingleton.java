@@ -1,4 +1,4 @@
-package com.appnucleus.volleylibraryexample1;
+package com.appnucleus.volleyLibrarySimpleExample;
 
 import android.content.Context;
 import android.graphics.Bitmap;

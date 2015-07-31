@@ -1,4 +1,4 @@
-package com.appnucleus.volleylibraryexample1;
+package com.appnucleus.volleyLibrarySimpleExample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

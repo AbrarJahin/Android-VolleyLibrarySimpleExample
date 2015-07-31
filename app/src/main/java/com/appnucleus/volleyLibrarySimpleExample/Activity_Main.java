@@ -1,12 +1,4 @@
-package com.appnucleus.volleylibraryexample1;
-
-/*
-*       To Import Volley-
-*           1. Go to "Project" perspective from "Android" perspective from left side top panel (under your project name)
- *          2. Pest "volley.jar" in the libs folder
- *          3. Right click on "volley.jar" and click add as a library from the bottom most of the poped up menu
- *          4. You are done - now you can change the perspective
-* */
+package com.appnucleus.volleyLibrarySimpleExample;
 
 import org.json.JSONObject;
 import android.app.Activity;
@@ -32,8 +24,8 @@ public class Activity_Main extends Activity
 
         responseText = (TextView)findViewById(R.id.txtDisplay);
 
-        String  url = "http://echo.jsontest.com/key/value/one/two";     //It is a JSON Link, so it will work
-        //url         = "http://httpbin.org/html";                      //-this url is a HTML Link, so it will not work
+        String  url = "http://api.androidhive.info/volley/person_object.json";      //It is a JSON Link, so it will work
+        //url         = "http://httpbin.org/html";                                  //-this url is a HTML Link, so it will not work - detail in the illustrative example in github
 
         //Showing Dialogue........
         final ProgressDialog pDialog = new ProgressDialog(this);
