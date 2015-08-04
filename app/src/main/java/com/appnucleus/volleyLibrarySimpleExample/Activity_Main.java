@@ -24,7 +24,7 @@ public class Activity_Main extends Activity
 
         responseText = (TextView)findViewById(R.id.txtDisplay);
 
-        String  url = "http://api.androidhive.info/volley/person_object.json";      //It is a JSON Link, so it will work
+        String  url = "http://api.appnucleus.com/volley/person_object.JSON";      //It is a JSON Link, so it will work
         //url         = "http://httpbin.org/html";                                  //-this url is a HTML Link, so it will not work - detail in the illustrative example in github
 
         //Showing Dialogue........
